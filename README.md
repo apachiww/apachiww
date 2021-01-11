@@ -1,4 +1,4 @@
-### 开坑从未结束，填坑从未开始QwQ
+### 开坑从未结束，填坑从未开始qwq
 
 + Shell script
 + STM32, makefile and debug
@@ -8,3 +8,8 @@
 + Basic penetration test
 + Maths
 + Signal and system
++ Cryptography
++ Basics of computer storage devices，including DDR and SSDs
++ Basics of Computer Architecture
++ Analog electronics and amplifiers
++ Qt applications

@@ -13,4 +13,5 @@
 + Basics of Computer Architecture
 + Analog electronics and amplifiers
 + Qt applications
-+ FreeBSD Gentoo SlackwareLinux and ArchLinux 
++ FreeBSD, Gentoo, Slackware, ArchLinux and OpenBSD deployment  
++ Computer graphics

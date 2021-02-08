@@ -6,10 +6,10 @@
 + Ruby and Ruby on Rails
 + ARM ISA and memory architecture
 + Basic penetration test
-+ Maths
++ Maths, including Operational Research and Game Theory
 + Signal and system
 + Cryptography
-+ Basics of computer storage devices，including DDR and SSDs
++ Basics of computer storage devices, including DDR and SSDs
 + Basics of Computer Architecture
 + Analog electronics and amplifiers
 + Qt applications

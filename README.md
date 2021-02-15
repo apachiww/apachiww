@@ -13,5 +13,6 @@
 + Basics of Computer Architecture
 + Analog electronics and amplifiers
 + Qt applications
-+ FreeBSD, Gentoo, Slackware, ArchLinux and OpenBSD deployment  
++ FreeBSD, Gentoo, Slackware, ArchLinux, ArtixLinux, OpenBSD deployment and optimization
++ RTOS on MCUs
 + Computer graphics

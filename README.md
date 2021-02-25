@@ -16,3 +16,4 @@
 + FreeBSD, Gentoo, Slackware, ArchLinux, ArtixLinux, OpenBSD deployment and optimization
 + RTOS on MCUs
 + Computer graphics
++ Parallel processing

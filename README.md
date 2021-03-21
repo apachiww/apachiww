@@ -1,5 +1,6 @@
 ### 开坑从未结束，填坑从未开始qwq
 
++ Computer Vision, 3D Reconstruction
 + Shell script
 + STM32, makefile and debug
 + Digital logic, Verilog and FPGA
@@ -15,5 +16,5 @@
 + Qt applications
 + FreeBSD, Gentoo, Slackware, ArchLinux, ArtixLinux, OpenBSD deployment and optimization
 + RTOS on MCUs
-+ Computer graphics
++ Computer Graphics
 + Parallel processing

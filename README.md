@@ -1,11 +1,12 @@
 ### 开坑从未结束，填坑从未开始qwq
 
 + Computer Vision, 3D Reconstruction
-+ Computer Graphics, Vulkan
++ Computer Graphics
 + Shell script
-+ STM32, makefile and debug
-+ Digital logic, Verilog and FPGA
-+ Ruby and Ruby on Rails
++ 8051, ARM, AVR MCU Programming
++ Digital logic, Verilog and FPGA Programming
++ Ruby Programming and Ruby on Rails
++ Rust Programming
 + ARM ISA and memory architecture
 + Metasploit penetration test
 + Maths, including Operational Research and Game Theory
@@ -13,9 +14,11 @@
 + Cryptography
 + Basics of computer storage devices, including DDR and SSDs
 + Basics of Computer Architecture
-+ Analog electronics and amplifiers
++ Analog Electronics and amplifiers
 + C++ Qt applications
-+ FreeBSD, Gentoo, Slackware, ArchLinux, ArtixLinux deployment and optimization
++ FreeBSD, Gentoo, ArchLinux, ArtixLinux deployment and optimization
 + RTOS on MCUs
 + Parallel processing
 + Algorithms
++ UEFI Programming
++ Haskell Programming

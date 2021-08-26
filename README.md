@@ -25,5 +25,3 @@ Learn enough ( ) to be dangerous
 + Algorithms
 + UEFI Programming
 + Haskell Programming
-
-> 今宵是完美的犬儒主义者

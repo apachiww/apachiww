@@ -23,5 +23,7 @@ Learn enough ( ) to be dangerous
 + RTOS on MCUs
 + Parallel computing
 + Algorithms
-+ UEFI Programming
-+ Haskell Programming
++ UEFI
++ Haskell programming
++ Psychology and Sociology
++ Harmonology
